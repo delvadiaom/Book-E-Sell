@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore",
+    "\\BookStore\\BookStore.Api",
+    "\\BookStore\\BookStore.Api\\Controllers",
+    "\\BookStore\\BookStore.Models",
+    "\\BookStore\\BookStore.Models\\DataModels",
+    "\\BookStore\\BookStore.Repository"
+  ],
+  "PreviewInSolutionExplorer": false
+}
